@@ -57,10 +57,10 @@
                 <div class="text-center py-4 py-sm-5">
                     <div class="mb-5">
                         <a href="index">
-                            <img src="{{ URL::asset('assets/images/logo-sm.svg') }}" alt="" height="30" class="me-1"><span class="logo-txt text-white font-size-22">Dason</span>
+                            <img src="{{ URL::asset('assets/images/logo-sm.svg') }}" alt="" height="30" class="me-1"><span class="logo-txt text-white font-size-22">Shahzaib</span>
                         </a>
                     </div>
-                    <h3 class="text-white mt-5">Let's get started with Dason</h3>
+                    <h3 class="text-white mt-5">Let's get started with Dashboard</h3>
                     <p class="text-white-50 font-size-15">Donec pede justo fringilla vel aliquet nec vulputate eget arcu. In enim justo, rhoncus ut imperdiet a venenatis vitae, justo felis</p>
                     <div data-countdown="2021/12/31" class="counter-number mt-5"></div>
                     <form class="app-search mt-5 mx-auto">

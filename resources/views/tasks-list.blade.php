@@ -22,7 +22,7 @@
                                     </div>
                                 </td>
                                 <td>
-                                    <h5 class="text-truncate font-size-14 m-0"><a href="javascript: void(0);" class="text-dark">Create a Dason Dashboard UI</a></h5>
+                                    <h5 class="text-truncate font-size-14 m-0"><a href="javascript: void(0);" class="text-dark">Create a new Dashboard UI</a></h5>
                                 </td>
                                 <td>
                                     <p class="ml-4 text-muted mb-0">
@@ -126,7 +126,7 @@
                                     </div>
                                 </td>
                                 <td>
-                                    <h5 class="text-truncate font-size-14 m-0"><a href="javascript: void(0);" class="text-dark">Create a Dason Logo</a></h5>
+                                    <h5 class="text-truncate font-size-14 m-0"><a href="javascript: void(0);" class="text-dark">Create a New Logo</a></h5>
                                 </td>
                                 <td>
                                     <p class="ml-4 text-muted mb-0">

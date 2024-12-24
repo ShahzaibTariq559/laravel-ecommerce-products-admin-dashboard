@@ -3,7 +3,7 @@
   !*** ./resources/js/pages/form-validation.init.js ***!
   \****************************************************/
 /*
-Template Name: Dason - Admin & Dashboard Template
+Template Name: Laravel E-Commerce Admin Dashboard
 Author: Themesdesign
 Website: https://themesdesign.in/
 Contact: themesdesign.in@gmail.com

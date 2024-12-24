@@ -135,4 +135,4 @@
 <!-- /Right-bar -->
 
 <!-- Right bar overlay-->
-<div class="rightbar-overlay"></div><?php /**PATH C:\xampp\htdocs\dason-laravel\resources\views/layouts/right-sidebar.blade.php ENDPATH**/ ?>
+<div class="rightbar-overlay"></div>

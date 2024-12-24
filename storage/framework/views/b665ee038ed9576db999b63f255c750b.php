@@ -9,5 +9,3 @@
 <script src="<?php echo e(URL::asset('assets/libs/pace-js/pace-js.min.js')); ?>"></script>
 <?php echo $__env->yieldContent('script'); ?>
 <?php echo $__env->yieldContent('script-bottom'); ?>
-
-<?php /**PATH C:\xampp\htdocs\dason-laravel\resources\views/layouts/vendor-scripts.blade.php ENDPATH**/ ?>

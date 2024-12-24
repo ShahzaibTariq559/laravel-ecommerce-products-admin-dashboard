@@ -19,7 +19,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ShahzaibTariq559/laravel-ecommerce-products-admin-dashboard.git
     ```
 
 2. Navigate to the project directory:

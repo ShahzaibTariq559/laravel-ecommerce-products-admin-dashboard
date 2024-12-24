@@ -2,7 +2,7 @@
   "_args": [
     [
       "tinymce@5.10.2",
-      "C:\\xampp\\htdocs\\dason-laravel"
+      "C:\\xampp\\htdocs\\Dashboard-laravel"
     ]
   ],
   "_from": "tinymce@5.10.2",
@@ -26,7 +26,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/tinymce/-/tinymce-5.10.2.tgz",
   "_spec": "5.10.2",
-  "_where": "C:\\xampp\\htdocs\\dason-laravel",
+  "_where": "C:\\xampp\\htdocs\\Dashboard-laravel",
   "author": {
     "name": "Tiny Technologies, Inc"
   },

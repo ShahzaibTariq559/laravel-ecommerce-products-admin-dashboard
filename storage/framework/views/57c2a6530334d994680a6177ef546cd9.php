@@ -274,4 +274,3 @@
     </div>
 </div>
 <!-- Left Sidebar End -->
-<?php /**PATH C:\xampp\htdocs\dason-laravel\resources\views/layouts/sidebar.blade.php ENDPATH**/ ?>

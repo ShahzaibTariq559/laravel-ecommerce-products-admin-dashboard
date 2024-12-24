@@ -3,7 +3,7 @@
   !*** ./resources/js/pages/chartjs.init.js ***!
   \********************************************/
 /*
-Template Name: Dason - Admin & Dashboard Template
+Template Name: Laravel E-Commerce Admin Dashboard
 Author: Themesbrand
 Website: https://themesbrand.com/
 Contact: themesbrand@gmail.com

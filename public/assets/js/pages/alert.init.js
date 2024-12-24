@@ -8,7 +8,7 @@
 /***/ (() => {
 
 /*
-Template Name: Dason - Admin & Dashboard Template
+Template Name: Laravel E-Commerce Admin Dashboard
 Author: Themesdesign
 Website: https://themesdesign.in/
 Contact: themesdesign.in@gmail.com
@@ -212,7 +212,7 @@ __webpack_require__.r(__webpack_exports__);
 /******/ 			return __webpack_require__.O(result);
 /******/ 		}
 /******/ 		
-/******/ 		var chunkLoadingGlobal = self["webpackChunkdason"] = self["webpackChunkdason"] || [];
+/******/ 		var chunkLoadingGlobal = self["webpackChunkDashboard"] = self["webpackChunkDashboard"] || [];
 /******/ 		chunkLoadingGlobal.forEach(webpackJsonpCallback.bind(null, 0));
 /******/ 		chunkLoadingGlobal.push = webpackJsonpCallback.bind(null, chunkLoadingGlobal.push.bind(chunkLoadingGlobal));
 /******/ 	})();

@@ -144,7 +144,7 @@
                                 <span class="badge rounded-pill badge-soft-secondary font-size-12" id="task-status">Waiting</span>
                             </div>
                             <div>
-                                <h5 class="font-size-14"><a href="javascript: void(0);" class="text-dark" id="task-name">Create a Dason Logo</a></h5>
+                                <h5 class="font-size-14"><a href="javascript: void(0);" class="text-dark" id="task-name">Create a New Logo</a></h5>
                                 <p class="text-muted mb-4">15 Oct, 2019</p>
                             </div>
 
@@ -345,7 +345,7 @@
                                 <span class="badge rounded-pill badge-soft-success font-size-12" id="task-status">Complete</span>
                             </div>
                             <div>
-                                <h5 class="font-size-14"><a href="javascript: void(0);" class="text-dark" id="task-name">Dason Dashboard UI</a></h5>
+                                <h5 class="font-size-14"><a href="javascript: void(0);" class="text-dark" id="task-name">New Dashboard UI</a></h5>
                                 <p class="text-muted mb-4">13 Oct, 2019</p>
                             </div>
 
@@ -544,7 +544,7 @@
                                 <span class="badge rounded-pill badge-soft-secondary font-size-12" id="task-status">Waiting</span>
                             </div>
                             <div>
-                                <h5 class="font-size-14"><a href="javascript: void(0);" class="text-dark" id="task-name">Dason landing Psd</a></h5>
+                                <h5 class="font-size-14"><a href="javascript: void(0);" class="text-dark" id="task-name">Dashboard landing Psd</a></h5>
                                 <p class="text-muted mb-4">15 Oct, 2019</p>
                             </div>
 
